@@ -1,0 +1,5 @@
+{
+    "serverPort":5000,
+    "dbUrl":"mongodb+srv://adel:adel@cluster0.mzhnd.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "secretKey":"kekw"
+}
